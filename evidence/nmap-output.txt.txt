@@ -1,0 +1,12 @@
+C:\Users\awast>nmap -Pn demo.owasp-juice.shop
+Host is up (0.29s latency).
+
+PORT         STATE        SERVICE
+21/tcp        open          ftp
+80/tcp        open          http
+139/tcp      filtered      netbios-ssn
+443/tcp      open           https
+445/tcp      filtered       microsoft-ds
+8080/tcp     open           http-proxy
+
+

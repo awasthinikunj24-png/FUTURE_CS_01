@@ -1,0 +1,3 @@
+Missing Security Headers – Medium Risk
+Information Disclosure – Low Risk
+Public Services Exposed – Low Risk
